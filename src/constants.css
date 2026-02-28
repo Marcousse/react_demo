@@ -1,0 +1,26 @@
+:root {
+    --text: #a5b6d5;
+    --foreground-2: #3f416a;
+    --foreground: #35375b;
+    --square: #454a7a;
+    --square-2: #515588;
+    --background: #26273e;
+}
+
+[theme = 'light'] {
+    --text: #313255;
+    --foreground-2: #7378b4;
+    --foreground: #60639b;
+    --square: #7a7ebd;
+    --square-2: #6c6fac;
+    --background: #a5b6d5;
+}
+
+[theme= 'dark'] {
+    --text: #a5b6d5;
+    --foreground-2: #3f416a;
+    --foreground: #35375b;
+    --square: #454a7a;
+    --square-2: #515588;
+    --background: #26273e;
+}
